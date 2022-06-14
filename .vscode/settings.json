@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.proseWrap": "never",
+  "prettier.printWidth": 130,
+  "editor.wordWrapColumn": 120
+}
